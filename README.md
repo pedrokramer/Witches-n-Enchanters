@@ -9,18 +9,31 @@ Neste trabalho, o dataset utilizado contém a quantidade de elementos em ligas m
 
 ## Atributos
 C = Carbono
+
 Mn = Manganês
+
 Si = Silício
+
 Cr = Cromo
+
 Ni = Níquel
+
 Mo = Molibdênio
+
 V = Vanádio
+
 N = Nitrogênio
+
 Nb = Nióbio
+
 Co = Cobalto
+
 W = Tungstênio
+
 Al = Alumínio
+
 Ti = Titânio
+
 Tensile strength = Resistência à tração 
 
 ## Etapas do trabalho
