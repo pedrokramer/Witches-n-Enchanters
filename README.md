@@ -7,7 +7,7 @@ em desenvolvimento
 ## Descrição
 Neste trabalho, o dataset utilizado contém a quantidade de elementos em ligas metálicas de aço e algumas propriedades mecânicas (yield strength,	tensile strength,	elongation). O objetivo do projeto é fazer uma análise exploratória de dados para encontrar modelos preditivos de como cada elemento químico da liga influencia essas propriedades metálicas.
 
-## Atributos
+## Atributos utilizados no modelo
 C = Carbono
 
 Mn = Manganês
@@ -28,16 +28,15 @@ Nb = Nióbio
 
 Co = Cobalto
 
-W = Tungstênio
-
 Al = Alumínio
 
 Ti = Titânio
 
+Fe = Ferro
 
 ## Target
 
-Tensile strength = Resistência à tração 
+Tensile strength = Resistência Máxima à tração 
 
 ## Etapas do trabalho
 - Introdução
@@ -45,7 +44,8 @@ Tensile strength = Resistência à tração
 - Imports
 - Dataset (modificações)
 - Matriz de correlação
-- Modelos (k-nn, árvore, floresta aleatória, shap)
+- Modelos (k-nn, árvore, floresta aleatória)
+- SHAP
 - Conclusão
 - Referências
 
