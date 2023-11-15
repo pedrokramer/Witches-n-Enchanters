@@ -69,7 +69,10 @@ Tensile strength = Resistência à tração
 ## Floresta Aleatória
 - A floresta aleatória é uma abordagem que utiliza várias árvores de decisão para melhorar a precisão e a generalização do modelo. Ela funciona como um comitê (*ensemble*) contendo diversas árvores de decisão onde cada uma realiza sua previsão individual.
 - Este modelo introduz aleatoriedade no processo de treinamento, como a seleção aleatória de subamostras do conjunto de dados e de características para dividir em cada nó da árvore. Isso ajuda a reduzir o sobreajuste e aumentar a generalização do modelo, criando modelos mais robustos e menos suscetíveis ao *overfitting*.
-- Assim como na árvore de decisão, podemos nos orientar pelo notebook para entender todas as etapas que estão bem explicadas, inclusive a otimização dos hiperparâmetros. 
+- Assim como na árvore de decisão, podemos nos orientar pelo notebook para entender todas as etapas que estão bem explicadas, inclusive a otimização dos hiperparâmetros.
+
+## SHAP
+- 
 
 ## Referências:
 [1] https://figshare.com/articles/dataset/Steel_Strength_Data/7250453 (dataset)
