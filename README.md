@@ -72,7 +72,8 @@ Tensile strength = Resistência à tração
 - Assim como na árvore de decisão, podemos nos orientar pelo notebook para entender todas as etapas que estão bem explicadas, inclusive a otimização dos hiperparâmetros.
 
 ## SHAP
-- 
+- O SHAP é um cálculo de importância de cada atributo de um modelo para o target previsto. É calculado através da permutação de valores dos atributos do modelo e assim armazenando o quanto tal alteração muda no valor do target.
+- O objetivo do uso do SHAP para o projeto então foi de entender como o modelo da floresta aleatória compreende a importância de cada elemento na liga.
 
 ## Referências:
 [1] https://figshare.com/articles/dataset/Steel_Strength_Data/7250453 (dataset)
@@ -86,3 +87,5 @@ Tensile strength = Resistência à tração
 [5] https://optuna.readthedocs.io/en/stable/ (Optuna)
 
 [6] https://blog.somostera.com/data-science/arvores-de-decisao (Árvore)
+
+[7] https://medium.com/big-data-blog/shap-o-que-%C3%A9-e-por-que-usar-6b01d37ae592 (SHAP)
