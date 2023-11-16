@@ -89,3 +89,27 @@ Tensile strength = Resistência Máxima à tração
 [6] https://blog.somostera.com/data-science/arvores-de-decisao (Árvore)
 
 [7] https://medium.com/big-data-blog/shap-o-que-%C3%A9-e-por-que-usar-6b01d37ae592 (SHAP)
+
+[8] https://www.diehlsteel.com/technical-information/effects-of-common-alloying-elements-in-steel/#:~:text=Cobalt%20(CO),elements%20in%20more%20complex%20steels. (Embasamento teórico)
+
+[9] https://www.scirp.org/pdf/JMMCE20121100008_97677514.pdf (Embasamento teórico)
+
+[10] Módulos 5.1, 5.2, 6.1, e 11 da disciplina de Machine Learning utilizados na parte da Árvore de Decisão
+
+[11] Módulos 5.2, 6.1, 6.2 e 11 da disciplina de Machine Learning utilizados na parte da Floresta Aleatória
+
+[12] https://www.youtube.com/watch?v=WSRqJdT2COE (Embasamento teórico)
+
+[13] https://www.youtube.com/watch?v=L8_sVRhBDLU&t=551s (SHAP)
+
+[14] https://www.youtube.com/watch?v=PaGJwOPg2kU (Embasamento teórico)
+
+[15] https://www.youtube.com/watch?v=BHZALtqAjeM (Embasamento teórico)
+
+[16] https://www.olympus-ims.com/pt/applications/grain-size-analysis/ (Imagem)
+
+[17] https://apaixonadosporhistoria.com.br/artigo/331/armas-e-armaduras-equivocos-comuns (Imagem)
+
+[18] https://wisc.pb.unizin.org/minimisgenchem/chapter/types-of-unit-cells-body-centered-cubic-and-face-centered-cubic-m11q5/ (Imagem)
+
+[19] Atividade "Modelos 4" da dupla "Encantadores de Serpente" composto por Pedro Henrique Kramer Canhim e João Pedro da Silva Mariano. Anexado no repositório do GitHub (Embasamento teórico)
